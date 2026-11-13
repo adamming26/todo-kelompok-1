@@ -20,7 +20,7 @@ Tidak perlu instalasi apa pun.
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/<username-SM>/todo-kelompok-1.git
+   git clone https://github.com/adamming26>/todo-kelompok-1.git
    cd todo-kelompok-1
    ```
 2. Buka file `index.html` di browser (klik dua kali pada file, atau klik kanan lalu *Open with* browser).
@@ -60,12 +60,12 @@ todo-kelompok-1/
 
 | No | Nama | Peran | User Story | File | Branch |
 |---|---|---|---|---|---|
-| 1 | [Adam] | Scrum Master (SM) | US-1 | `index.html` | `fitur/us-1-halaman` |
-| 2 | [Cinta] | Developer 1 | US-2 | `script.js` | `fitur/us-2-tambah-tugas` |
-| 3 | [Ridha] | Developer 2 | US-3 | `style.css` | `fitur/us-3-tampilan` |
-| 4 | [Marcelo] | Product Owner (PO) | US-4 | `README.md` | `fitur/us-4-readme` |
-| 5 | [Amal] | Developer 3 | US-5 | `hapus.js` | `fitur/us-5-hapus-tugas` |
-| 6 | [Ihwal] | Developer 4 | US-6 | `hitung.js` | `fitur/us-6-jumlah-tugas` |
+| 1 | Adam | Scrum Master (SM) | US-1 | `index.html` | `fitur/us-1-halaman` |
+| 2 | Cinta | Developer 1 | US-2 | `script.js` | `fitur/us-2-tambah-tugas` |
+| 3 | Ridha | Developer 2 | US-3 | `style.css` | `fitur/us-3-tampilan` |
+| 4 | Marcelo | Product Owner (PO) | US-4 | `README.md` | `fitur/us-4-readme` |
+| 5 | Amal | Developer 3 | US-5 | `hapus.js` | `fitur/us-5-hapus-tugas` |
+| 6 | Ihwal | Developer 4 | US-6 | `hitung.js` | `fitur/us-6-jumlah-tugas` |
 
 **Tanggung jawab peran:**
 

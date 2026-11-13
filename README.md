@@ -122,4 +122,4 @@ todo-kelompok-1/
 
 ---
 
-Dibuat oleh Kelompok 1, Kelas [kelas], dalam praktikum Rekayasa Perangkat Lunak (RPL).
+Dibuat oleh Kelompok 1, Kelas A, dalam praktikum Rekayasa Perangkat Lunak (RPL).
